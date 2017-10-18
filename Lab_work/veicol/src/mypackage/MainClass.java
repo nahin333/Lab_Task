@@ -4,14 +4,7 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		
-		 //code for varidic function...
-		
-		VariadicClass object = new VariadicClass();
-		System.out.println("average1 : "+object.average(5.5,6.5,70.5));
-		System.out.println("average2 : "+object.average(5.5,6.5,70.5,100.5,200.2));
-		System.out.println();
-		
-		// code for variadic function ends here......
+		 
 		
 		Car ob1 = new Car();
 		Bus ob2 = new Bus();
